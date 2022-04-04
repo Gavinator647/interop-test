@@ -1,0 +1,12 @@
+{
+ "alphanumeric": "I", 
+ "alphanumeric_color": "WHITE", 
+ "autonomous": true, 
+ "latitude": -8.737402,
+ "longitude": -4.570002, 
+ "mission": 1, 
+ "orientation": "N", 
+ "shape": "CROSS", 
+ "shape_color": "ORANGE", 
+ "type": "STANDARD" 
+ }

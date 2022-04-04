@@ -1,0 +1,12 @@
+{
+ "alphanumeric": "T", 
+ "alphanumeric_color": "RED", 
+ "autonomous": true, 
+ "latitude": -6.574935,
+ "longitude": 3.301703, 
+ "mission": 1, 
+ "orientation": "N", 
+ "shape": "STAR", 
+ "shape_color": "GRAY", 
+ "type": "STANDARD" 
+ }
