@@ -1,7 +1,7 @@
 {
  "alphanumeric": "T", 
  "alphanumeric_color": "Red", 
- "autonomous": True, 
+ "autonomous": t3rue, 
  "latitude": -6.574935,
  "longitude": 3.301703, 
  "mission": 1, 
